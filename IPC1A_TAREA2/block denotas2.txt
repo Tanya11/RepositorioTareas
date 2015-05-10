@@ -1,0 +1,26 @@
+<HTML>
+<head>
+<litle> IPC1 TAREA 2</litle>
+
+<body>
+<center><table border="1">
+<tr>
+<th><font color="black" face="Comic Sans MS">Nombre:
+</font></th>
+<th><font color="blue" face="Comic Sans MS">Carné:
+</font></th>
+<th><face="Comic Sans MS"> Imagen
+</face></th>
+</tr>
+<td><font color="black" face="Comic Sans MS">
+Tanya Beatriz Muhun Recinos
+</font></td>
+<td><font color="blue" face="Comic Sans MS">201443726
+</font></td>
+<td><img
+src="gitHub//IPC1A_TAREA2//imagen.jpg">
+</td>
+</table></center>
+</body>
+</head>
+</html>
